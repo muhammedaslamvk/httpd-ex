@@ -99,7 +99,7 @@
         "output": {
           "to": {
             "kind": "ImageStreamTag",
-            "name": "${NAME}"
+            "name": "${NAME}:aslam"
           }
         },
         "triggers": [
